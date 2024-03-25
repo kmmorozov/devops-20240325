@@ -14,3 +14,5 @@ while bad_data == True:
     except:
         print('Какая-то ошибка!')
 
+D = b*b - (4*a*c)
+print(f'Дискриминант равен: {D}.')
